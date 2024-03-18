@@ -1,1 +1,3 @@
 # IMDB-database
+
+The main objective of this project is to build an IMDb database using Internet Movie Database dataset. The dataset consists of 7 compressed tab-separated- value (.tsv) files in the UTF-8-character set, which are converted to (.csv) files. This IMDb database includes comprehensive information about movies, their cast members, and crew members. The database is made up of 7 datasets that contain movie-related data. Users can find answers to frequent questions about their favorite entertainment programs using the movie database. The actors, vote totals, cast, crew, ratings, budget, revenue, posters, release dates, languages, production firms, nations, and genres are among the data items in this database.
